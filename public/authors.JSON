@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Marijn Haverbeke",
+    "occupation": "Developer and author",
+    "country": "Barcelona",
+    "famousBook": "Eloquent JavaScript",
+    "salary": 1200000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYi9U5Cf4BDqpASfhsLJuuyuoqfgTlrGGWsQ__FEsH17aJgHio4jkz90lIMh_lweH08Ws&usqp=CA",
+    "key": 1
+  },
+  {
+    "name": "Douglas Crockford",
+    "occupation": "Senior JavaScript Architect",
+    "country": "The United States",
+    "famousBook": "JavaScript: The Good Parts",
+    "salary": 2400000,
+    "image": "https://www.bing.com/th?id=AMMS_a58d3237c01acd1e2d9bf435ef28fbfd&w=236&h=183&c=12&rs=1&o=5&pid=3.1&rm=2",
+    "key": 2
+  },
+  {
+    "name": "Ivelin Demirov",
+    "occupation": "Author, investor, web and graphic designer",
+    "country": "Canda",
+    "famousBook": "Learn JavaScript Visually",
+    "salary": 1500000,
+    "image": "https://amzsummits.com/wp-content/uploads/2017/07/Ivelin-Demirov.jpg",
+    "key": 3
+  },
+  {
+    "name": "David Flanagan",
+    "occupation": "Computer programmer, Software Developer",
+    "country": "Ireland",
+    "famousBook": "JavaScript: The Definitive Guide",
+    "salary": 3500000,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61ONpOKBYiL._SX450_.jpg",
+    "key": 4
+  },
+  {
+    "name": "Nicholas C. Zakas",
+    "occupation": "Front-end consultant, author, and speaker",
+    "country": "The United States",
+    "famousBook": "The Principles of Object-Oriented JavaScript",
+    "salary": 2500000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqQhXqCE-NfMYMgOcrJ0bERnWYzZTCfaDwhyf3nZ44ltdoKfYkZrwBYGq7b9ruTXcRheo&usqp=CAU",
+    "key": 5
+  },
+  {
+    "name": "David Herman",
+    "occupation": "Senior researcher at Mozilla Research",
+    "country": "The United States",
+    "famousBook": "Effective JavaScript",
+    "salary": 1500000,
+    "image": "https://miro.medium.com/fit/c/262/262/0*IlXZIq4C47TXbXUW.jpg",
+    "key": 6
+  },
+  {
+    "name": "Mark Lassoff",
+    "occupation": "Programmer & Instructor",
+    "country": "The United States",
+    "famousBook": "Javascript for Beginners",
+    "salary": 4000000,
+    "image": "https://img-c.udemycdn.com/user/200_H/22632534_6ae1.jpg",
+    "key": 7
+  },
+  {
+    "name": "Kyle Simpson",
+    "occupation": "author, workshop trainer, and OSS contributor/leader",
+    "country": "The United States",
+    "famousBook": "You Don’t Know JS",
+    "salary": 3500000,
+    "image": "https://th.bing.com/th/id/OIP.EwrCTv7GrXlyxiXBf703YAAAAA?w=164&h=180&c=7&r=0&o=5&pid=1.7",
+    "key": 8
+  },
+  {
+    "name": "Aravind Shenoy",
+    "occupation": "Technical writer",
+    "country": "India",
+    "famousBook": "Thinking in JavaScript",
+    "salary": 1500000,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61p3Vo+PmRL._SY600_.jpg",
+    "key": 9
+  }
+]

@@ -1,0 +1,37 @@
+.logo-color{
+    color:#FDD740;
+    font-weight:900;
+}
+.brand-color{
+    color:#FDD740;
+}
+.navbar-menu{
+    border-bottom: 3px solid #FDD740;
+}
+.navbar-nav-ul{
+    display: flex;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav-li-a{
+    color:black;
+}
+.nav-li-a:hover{
+    color:#FDD740;
+}
+.vertical-height100{
+    height: 100vh;
+  }
+.scroll:hover{
+    color:#FDD740;
+}
+.blinking{
+    animation:blinkingText 3s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #FDD740;    }
+    49%{    color: #FDD740; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #FDD740;    }
+}

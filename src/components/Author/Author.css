@@ -1,0 +1,16 @@
+.card-image{
+    height: 240px;
+    width: 100%;
+}
+.social-icon a{
+    text-decoration: none;
+    color: gray;
+    font-size: 25px;
+}
+.social-icon a:hover{
+    color: #FDD740;
+}
+.social-icon{
+    display: flex;
+    justify-content: center;
+}
