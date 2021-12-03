@@ -14,7 +14,7 @@ const Header = () => {
                     {/* logo and site tite */}
                     <a className="navbar-brand" href="https://js-leaders-conference.netlify.app/">
                         <img src={logo} alt="" width="30" height="24"/>
-                        <span className="logo-color">JS Leaders</span>
+                        <span className="logo-color">JS. Leaders</span>
                     </a>
                     <div>
                     <ul className="navbar-nav-ul me-auto mb-2 mb-lg-0 ms-0 ps-0">
